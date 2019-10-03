@@ -1,11 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww17620\viewh12960\viewkind0
-\deftab720
-\pard\pardeftab720
-
-\f0\fs26 \cf0 ---------------------------------------------------------------------------------------------------------------------\
+---------------------------------------------------------------------------------------------------------------------\
 Copyright @ Ehsan Elhamifar, 2012\
 \
 ---------------------------------------------------------------------------------------------------------------------\
@@ -20,10 +13,9 @@ The code is provided for research purposes only and without any warranty. Any co
 \
 When using the code in your research work, you should cite the following paper:\
 \
-Sparse Subspace Clustering: Algorithm, Theory, and Applications\
-E. Elhamifar and R. Vidal, \
-Submitted to IEEE Trans. on  PAMI, 2011.\
-Available: {\field{\*\fldinst{HYPERLINK "http://arxiv.org/abs/1203.1005"}}{\fldrslt http://arxiv.org/abs/1203.1005}}\
+Elhamifar, E.,Vidal, R. Sparse Subspace Clustering: Algorithm, Theory, and Applications[J]. IEEE T Pattern Anal Mach Intell, 2013, 35 (11): 2765-2781.
+
 \
 ---------------------------------------------------------------------------------------------------------------------\
 Please contact Ehsan Elhamifar (ehsan [At] cis [Dot] jhu [Dot] edu) for questions about the code.}
+# 部分matlab缺失 hungarian.m，已经添加。
